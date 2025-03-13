@@ -2,4 +2,7 @@ pytrends
 pandas
 streamlit
 google-cloud
+google-cloud-storage  # Add if needed
+google-cloud-pubsub  # Add if needed
+google-cloud-firestore  # Add if needed
 datetime
