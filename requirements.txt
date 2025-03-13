@@ -1,5 +1,5 @@
 pytrends
 pandas
 streamlit
-google.cloud
+google-cloud
 datetime
